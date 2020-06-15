@@ -16,5 +16,6 @@ public class AppTest {
 		System.out.println("Before Assertion"+" "+e+" "+a);
 		Assert.assertEquals(e, a);
 		System.out.println("After Assertion"+" "+e+" "+a);
+		System.out.println("completed");
 	}
 }
